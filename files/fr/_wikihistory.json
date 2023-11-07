@@ -11503,10 +11503,6 @@
     "modified": "2020-10-15T22:22:14.553Z",
     "contributors": ["plyd", "philbhur"]
   },
-  "Web/API/RTCPeerConnection/RTCPeerConnection": {
-    "modified": "2020-09-12T07:23:54.439Z",
-    "contributors": ["MisterDA", "amineSsa"]
-  },
   "Web/API/RTCPeerConnection/setConfiguration": {
     "modified": "2020-10-15T22:22:53.605Z",
     "contributors": ["SphinxKnight", "bbataini"]
